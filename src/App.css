@@ -1,9 +1,15 @@
 .App{
-margin:2rem 0 0 20rem;
-width: 40rem;
-border: 1px solid black;
-padding: 0rem  5rem 5rem 5rem ;
-background-color: #00796b;
+/* margin:2rem 0 0 20rem; */
+/* width: 40rem; */
+/* border: 1px solid black; */
+/* padding: 0rem  5rem 5rem 5rem ; */
+/* background-color: #00796b; */
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+/* height: 100vh; */
+
 }
 .todo-title{
   margin: 2rem 10rem;
